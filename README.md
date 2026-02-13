@@ -1,5 +1,5 @@
 # Name: Annuncio M
-# Reg no.: 21224060021#
+# Reg no.: 21224060021
 # Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
